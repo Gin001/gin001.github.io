@@ -1,7 +1,20 @@
-#Будьте внимательны при изменении robots.txt!!!
-#Правила, внесенные Вами, могут снизить позицию Вашего сайта в поисковых системах.
-
 User-agent: *
-Allow: /
-Host: https://skupka123.su
-Sitemap: https://skupka123.su/sitemap.xml
+Disallow: /api/
+Disallow: /bo/
+Disallow: /editor.jsp
+Disallow: /noflashhtml
+Disallow: /siteBackHtml
+Disallow: /wix/
+Disallow: /wixpress/
+Disallow: /wixdemo/
+Disallow: /wix-editor/
+Disallow: /editor2.jsp
+Disallow: /flash/
+Disallow: /flash-templates/
+Disallow: /jobs/seo/
+Disallow: /website-template/view/flash/
+Disallow: /facebook-template/
+Disallow: /facebook/templates/
+Disallow: /website/templates/flash/
+Disallow: /favicon.ico
+
