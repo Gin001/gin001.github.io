@@ -1,20 +1,15 @@
-User-agent: *
-Disallow: /api/
-Disallow: /bo/
-Disallow: /editor.jsp
-Disallow: /noflashhtml
-Disallow: /siteBackHtml
-Disallow: /wix/
-Disallow: /wixpress/
-Disallow: /wixdemo/
-Disallow: /wix-editor/
-Disallow: /editor2.jsp
-Disallow: /flash/
-Disallow: /flash-templates/
-Disallow: /jobs/seo/
-Disallow: /website-template/view/flash/
-Disallow: /facebook-template/
-Disallow: /facebook/templates/
-Disallow: /website/templates/flash/
-Disallow: /favicon.ico
-
+User-Agent: *
+Disallow: /page3065119.html
+Disallow: /header
+Disallow: /page3065162.html
+Disallow: /footer
+Disallow: /page5793914.html
+Disallow: /error
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: https://e-scooter.club/sitemap.xml
+Host: https://e-scooter.club
