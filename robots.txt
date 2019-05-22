@@ -1,15 +1,7 @@
-User-Agent: *
-Disallow: /page3065119.html
-Disallow: /header
-Disallow: /page3065162.html
-Disallow: /footer
-Disallow: /page5793914.html
-Disallow: /error
-Disallow: /tilda/form*
-Disallow: /tilda/rec*
-Disallow: /tilda/click*
-Disallow: /tilda/scroll*
-Disallow: /tilda/popup*
-Disallow:
-Sitemap: https://e-scooter.club/sitemap.xml
-Host: https://e-scooter.club
+#Будьте внимательны при изменении robots.txt!!!
+#Правила, внесенные Вами, могут снизить позицию Вашего сайта в поисковых системах.
+
+User-agent: *
+Allow: /
+Host: https://skupka123.su
+Sitemap: https://skupka123.su/sitemap.xml
