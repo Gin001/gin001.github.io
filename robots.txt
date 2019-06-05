@@ -1,7 +1,4 @@
-#Будьте внимательны при изменении robots.txt!!!
-#Правила, внесенные Вами, могут снизить позицию Вашего сайта в поисковых системах.
-
 User-agent: *
-Allow: /
-Host: https://skupka123.su
-Sitemap: https://skupka123.su/sitemap.xml
+
+User-agent: Yandex
+Host: sfd-chess.ru
