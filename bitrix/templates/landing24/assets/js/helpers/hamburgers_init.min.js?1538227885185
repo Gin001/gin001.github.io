@@ -1,1 +1,0 @@
-(function(){"use strict";BX.addCustomEvent("BX.Landing.Block:init",function(e){var t=e.makeRelativeSelector(".hamburger");if($(t).length>0){$.HSCore.helpers.HSHamburgers.init(t)}})})();
